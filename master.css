@@ -51,6 +51,7 @@ p {
   .containers {
     flex-direction: row;
     width: 70%;
+    margin: 9.7em auto;
   }
 }
 
