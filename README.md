@@ -9,7 +9,7 @@ Here I have learned about CSS Flexbox and Position property, also responsive des
 
 ## Screnshots
 
-[Mobile Design](/screenshots/mobile-design.jpg)
+![Mobile Design](screenshots/mobile-design.jpg)
 
 ## Links
 
@@ -19,6 +19,7 @@ Here I have learned about CSS Flexbox and Position property, also responsive des
 
 - HTML
 - CSS
+- Flexbox
 
 ## Author
 
